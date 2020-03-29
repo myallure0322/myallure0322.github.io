@@ -3,44 +3,46 @@
   <entry>
     <title>通过Linux搭建博客</title>
     <url>/%E9%80%9A%E8%BF%87Linux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h4 id="租借云服务器"><a href="#租借云服务器" class="headerlink" title="租借云服务器"></a>租借云服务器</h4><a id="more"></a>
+    <content><![CDATA[<iframe scrolling="no" src="https://tianqiapi.com/api.php?style=tx&skin=sogou" frameborder="0" width="100%" height="30" allowtransparency="true"></iframe>  
+
+<h4 id="租借云服务器"><a href="#租借云服务器" class="headerlink" title="租借云服务器"></a>租借云服务器</h4><a id="more"></a>
 <h5 id="国内云服务器，如："><a href="#国内云服务器，如：" class="headerlink" title="国内云服务器，如："></a>国内云服务器，如：</h5><table>
 <thead>
 <tr>
-<th>服务器</th>
-<th>配置</th>
-<th>白嫖天数</th>
-<th>申请时间</th>
+<th><center>服务器</center></th>
+<th><center>配置</center></th>
+<th><center>白嫖天数</center></th>
+<th><center>申请时间</center></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>腾讯云</td>
-<td>1核 1G 1M 50G</td>
-<td>15天</td>
-<td>随时</td>
+<td><center>腾讯云</center></td>
+<td><center>1核 1G 1M 50G</center></td>
+<td><center>15天</center></td>
+<td><center>随时</center></td>
 </tr>
 <tr>
-<td>天翼云</td>
-<td>2核 4G 1M 40G</td>
-<td>1个月</td>
-<td>早上9点</td>
-</tr>
-<tr>
-<td></td>
-<td>1核 1G 1M 50G</td>
-<td>180天</td>
-<td></td>
-</tr>
-<tr>
-<td>小鸟云</td>
-<td>2核 2G 5M 50G</td>
-<td>90天</td>
-<td>早上10点</td>
+<td><center>天翼云</center></td>
+<td><center>2核 4G 1M 40G</center></td>
+<td><center>1个月</center></td>
+<td><center>早上9点</center></td>
 </tr>
 <tr>
 <td></td>
-<td>4核 4G 5M 50G</td>
-<td>30天</td>
+<td><center>1核 1G 1M 50G</center></td>
+<td><center>180天</center></td>
+<td></td>
+</tr>
+<tr>
+<td><center>小鸟云</center></td>
+<td><center>2核 2G 5M 50G</center></td>
+<td><center>90天</center></td>
+<td><center>早上10点</center></td>
+</tr>
+<tr>
+<td></td>
+<td><center>4核 4G 5M 50G</center></td>
+<td><center>30天</center></td>
 <td></td>
 </tr>
 </tbody></table>
@@ -63,7 +65,9 @@
   <entry>
     <title>Hello World</title>
     <url>/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+    <content><![CDATA[<img src="https://api.uixsj.cn/bing/bing.php" width="300px" height="auto">  
+
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <a id="more"></a>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
