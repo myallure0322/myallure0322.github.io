@@ -46,17 +46,20 @@
 <td></td>
 </tr>
 </tbody></table>
-<h4 id="下载Xshell"><a href="#下载Xshell" class="headerlink" title="下载Xshell"></a>下载<a href="https://www.newasp.net/soft/384562.html" target="_blank" rel="noopener">Xshell</a></h4><h4 id="通过Xshell链接服务器以及宝塔搭建"><a href="#通过Xshell链接服务器以及宝塔搭建" class="headerlink" title="通过Xshell链接服务器以及宝塔搭建"></a>通过Xshell链接服务器以及宝塔搭建</h4><h5 id="打开软件–点击新建"><a href="#打开软件–点击新建" class="headerlink" title="打开软件–点击新建"></a>打开软件–点击新建</h5><p><img src="https://i.loli.net/2020/03/29/YcSv9ebyPi65Nxj.jpg" alt="1.jpg">  </p>
-<h5 id="名称可随意填写、主机为服务器的公网IP地址"><a href="#名称可随意填写、主机为服务器的公网IP地址" class="headerlink" title="名称可随意填写、主机为服务器的公网IP地址"></a>名称可随意填写、主机为服务器的公网IP地址</h5><p><img src="https://i.loli.net/2020/03/29/vJt3aYqEiMZVbPs.png" alt="2.png"></p>
-<h5 id="点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码"><a href="#点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码" class="headerlink" title="点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码"></a>点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码</h5><p><img src="https://i.loli.net/2020/03/29/vsHhq5EGkDWFnMy.png" alt="3.png"></p>
-<h5 id="进去之后在下方箭头表示处复制粘贴："><a href="#进去之后在下方箭头表示处复制粘贴：" class="headerlink" title="进去之后在下方箭头表示处复制粘贴："></a>进去之后在下方箭头表示处复制粘贴：</h5><p>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh" target="_blank" rel="noopener">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh<br><img src="https://i.loli.net/2020/03/29/UBTZrDK7HoglEqN.png" alt="4.png"></p>
-<h5 id="提示“是否搭建”，输入“y”后按回车"><a href="#提示“是否搭建”，输入“y”后按回车" class="headerlink" title="提示“是否搭建”，输入“y”后按回车"></a>提示“是否搭建”，输入“y”后按回车</h5><p><img src="https://i.loli.net/2020/03/29/5w6k3igLNlaOdJH.png" alt="5.png"></p>
-<h5 id="等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”"><a href="#等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”" class="headerlink" title="等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”"></a>等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”</h5><p><img src="https://i.loli.net/2020/03/29/FqdhjvGegkpr1H9.png" alt="6.png"></p>
-<h4 id="打开云服务器的安全组"><a href="#打开云服务器的安全组" class="headerlink" title="打开云服务器的安全组"></a>打开云服务器的安全组</h4><h5 id="通过服务器官网控制面板进入安全组，并为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0-0-0-0-0"><a href="#通过服务器官网控制面板进入安全组，并为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0-0-0-0-0" class="headerlink" title="通过服务器官网控制面板进入安全组，并为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0.0.0.0/0"></a>通过服务器官网控制面板进入安全组，并为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0.0.0.0/0</h5><p><img src="https://i.loli.net/2020/03/29/F6ildxKfmsRIyuM.png" alt="7.png"></p>
-<h4 id="进入宝塔面板布置"><a href="#进入宝塔面板布置" class="headerlink" title="进入宝塔面板布置"></a>进入宝塔面板布置</h4><h5 id="在浏览器上输入地址进入宝塔面板"><a href="#在浏览器上输入地址进入宝塔面板" class="headerlink" title="在浏览器上输入地址进入宝塔面板"></a>在浏览器上输入地址进入宝塔面板</h5><p><img src="https://i.loli.net/2020/03/29/HFCu5gGrqoaYLnh.png" alt="8.png"></p>
-<h5 id="安装LAMP面板，PHP版本选择5-6，等待直至安装完成"><a href="#安装LAMP面板，PHP版本选择5-6，等待直至安装完成" class="headerlink" title="安装LAMP面板，PHP版本选择5.6，等待直至安装完成"></a>安装LAMP面板，PHP版本选择5.6，等待直至安装完成</h5><p><img src="https://i.loli.net/2020/03/30/hvtHrp932DG8EQN.jpg" alt="9-1024x478.jpg"></p>
-<h4 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h4><h5 id="左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加"><a href="#左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加" class="headerlink" title="左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加"></a>左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加</h5><p><img src="https://i.loli.net/2020/03/29/vV9AHeFzOicCJdE.png" alt="10.png"><br><img src="https://i.loli.net/2020/03/29/sjL3RzdwYGbKhUD.png" alt="11.png"></p>
-<script type="text/javascript" src="https://api.uixsj.cn/hitokoto/w.php?code=js"></script><div id="xsjhitokoto"><script>xsjhitokoto()</script></div>]]></content>
+<h4 id="下载Xshell"><a href="#下载Xshell" class="headerlink" title="下载Xshell"></a>下载<a href="https://www.newasp.net/soft/384562.html" target="_blank" rel="noopener">Xshell</a></h4><h4 id="通过Xshell链接服务器以及宝塔搭建"><a href="#通过Xshell链接服务器以及宝塔搭建" class="headerlink" title="通过Xshell链接服务器以及宝塔搭建"></a>通过Xshell链接服务器以及宝塔搭建</h4><h5 id="链接至Xshell"><a href="#链接至Xshell" class="headerlink" title="链接至Xshell"></a>链接至Xshell</h5><ul>
+<li>打开软件–点击新建<br><img src="https://i.loli.net/2020/03/29/YcSv9ebyPi65Nxj.jpg" alt="1.jpg">  </li>
+<li>名称可随意填写、主机为服务器的公网IP地址<br><img src="https://i.loli.net/2020/03/29/vJt3aYqEiMZVbPs.png" alt="2.png"></li>
+<li>点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码<br><img src="https://i.loli.net/2020/03/29/vsHhq5EGkDWFnMy.png" alt="3.png"><h5 id="搭建宝塔面板"><a href="#搭建宝塔面板" class="headerlink" title="搭建宝塔面板"></a>搭建宝塔面板</h5></li>
+<li>复制粘贴：<br>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh" target="_blank" rel="noopener">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh<br><img src="https://i.loli.net/2020/03/29/UBTZrDK7HoglEqN.png" alt="4.png"></li>
+<li>提示“是否搭建”，输入“y”后按回车<br><img src="https://i.loli.net/2020/03/29/5w6k3igLNlaOdJH.png" alt="5.png"></li>
+<li>等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”<br><img src="https://i.loli.net/2020/03/29/FqdhjvGegkpr1H9.png" alt="6.png"><h4 id="打开云服务器的安全组"><a href="#打开云服务器的安全组" class="headerlink" title="打开云服务器的安全组"></a>打开云服务器的安全组</h4></li>
+<li>通过服务器官网控制面板进入安全组  </li>
+<li>为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0.0.0.0/0<br><img src="https://i.loli.net/2020/03/29/F6ildxKfmsRIyuM.png" alt="7.png"><h4 id="进入宝塔面板布置"><a href="#进入宝塔面板布置" class="headerlink" title="进入宝塔面板布置"></a>进入宝塔面板布置</h4></li>
+<li>在浏览器上输入地址进入宝塔面板<br><img src="https://i.loli.net/2020/03/29/HFCu5gGrqoaYLnh.png" alt="8.png"></li>
+<li>安装LAMP面板，PHP版本选择5.6，等待直至安装完成<br><img src="https://i.loli.net/2020/03/30/hvtHrp932DG8EQN.jpg" alt="9-1024x478.jpg"><h4 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h4></li>
+<li>左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加<br><img src="https://i.loli.net/2020/03/29/vV9AHeFzOicCJdE.png" alt="10.png"><br><img src="https://i.loli.net/2020/03/29/sjL3RzdwYGbKhUD.png" alt="11.png"></li>
+</ul>
+]]></content>
       <tags>
         <tag>Linux</tag>
         <tag>博客</tag>
