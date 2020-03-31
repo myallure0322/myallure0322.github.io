@@ -4,10 +4,10 @@
     <title>通过Linux搭建博客</title>
     <url>/%E9%80%9A%E8%BF%87Linux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
-        <div id="aplayer-kauvGOjy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
+        <div id="aplayer-CFqTYUNo" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
 			  <script>
 				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"しわくちゃ","author":"奥華子","url":"https://music.163.com/song/media/outer/url?id=28381010.mp3","pic":"https://p1.music.126.net/2K1snztXB_2imo_a67RM_w==/109951163598618608.jpg?param=106x106","lrc":""},{"title":"初恋","author":"奥華子","url":"https://music.163.com/song/media/outer/url?id=22779518.mp3","pic":"https://p1.music.126.net/WHx0zuQ_wf5m0I3e-W7t2Q==/109951163597690668.jpg?param=106x106","lrc":""}]};
-				  options.element = document.getElementById("aplayer-kauvGOjy");
+				  options.element = document.getElementById("aplayer-CFqTYUNo");
 				  var ap = new APlayer(options);
 			    window.aplayers || (window.aplayers = []);
 				  window.aplayers.push(ap);
