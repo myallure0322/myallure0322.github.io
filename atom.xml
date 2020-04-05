@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Myallure&#39;s base</title>
+  
+  <subtitle>Let&#39;s think</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://myallure0322.github.io/"/>
+  <updated>2020-04-05T17:05:59.876Z</updated>
+  <id>http://myallure0322.github.io/</id>
+  
+  <author>
+    <name>Myallure</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建博客</title>
+    <link href="http://myallure0322.github.io/tong-guo-linux-da-jian-bo-ke/"/>
+    <id>http://myallure0322.github.io/tong-guo-linux-da-jian-bo-ke/</id>
+    <published>2020-03-29T14:28:44.000Z</published>
+    <updated>2020-04-05T17:05:59.876Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;云服务器&quot;&gt;&lt;a href=&quot;#云服务器&quot; class=&quot;headerlink&quot; title=&quot;云服务器&quot;&gt;&lt;/a&gt;云服务器&lt;/h2&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="博客" scheme="http://myallure0322.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://myallure0322.github.io/hello-world/"/>
+    <id>http://myallure0322.github.io/hello-world/</id>
+    <published>2020-03-28T18:47:21.863Z</published>
+    <updated>2020-03-29T20:10:34.428Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;https://api.uixsj.cn/bing/bing.php&quot; width=&quot;300px&quot; height=&quot;auto&quot;&gt;  
+
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

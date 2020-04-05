@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>通过Linux搭建博客</title>
-    <url>/%E9%80%9A%E8%BF%87Linux%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>
-        <div id="aplayer-rjNblkbR" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;"></div>
-			  <script>
-				  var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"しわくちゃ","author":"奥華子","url":"https://music.163.com/song/media/outer/url?id=28381010.mp3","pic":"https://p1.music.126.net/2K1snztXB_2imo_a67RM_w==/109951163598618608.jpg?param=106x106","lrc":""},{"title":"初恋","author":"奥華子","url":"https://music.163.com/song/media/outer/url?id=22779518.mp3","pic":"https://p1.music.126.net/WHx0zuQ_wf5m0I3e-W7t2Q==/109951163597690668.jpg?param=106x106","lrc":""}]};
-				  options.element = document.getElementById("aplayer-rjNblkbR");
-				  var ap = new APlayer(options);
-			    window.aplayers || (window.aplayers = []);
-				  window.aplayers.push(ap);
-			  </script>  
-
-<h4 id="租借云服务器"><a href="#租借云服务器" class="headerlink" title="租借云服务器"></a>租借云服务器</h4><a id="more"></a>
-<h5 id="国内云服务器，如："><a href="#国内云服务器，如：" class="headerlink" title="国内云服务器，如："></a>国内云服务器，如：</h5><table>
+    <title>搭建博客</title>
+    <url>/tong-guo-linux-da-jian-bo-ke/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="云服务器"><a href="#云服务器" class="headerlink" title="云服务器"></a>云服务器</h2><a id="more"></a>
+<h3 id="国内云服务器，如："><a href="#国内云服务器，如：" class="headerlink" title="国内云服务器，如："></a>国内云服务器，如：</h3><table>
 <thead>
 <tr>
 <th><center>服务器</center></th>
@@ -54,22 +44,47 @@
 <td></td>
 </tr>
 </tbody></table>
-<h4 id="下载Xshell"><a href="#下载Xshell" class="headerlink" title="下载Xshell"></a>下载<a href="https://www.newasp.net/soft/384562.html" target="_blank" rel="noopener">Xshell</a></h4><h4 id="通过Xshell链接服务器以及宝塔搭建"><a href="#通过Xshell链接服务器以及宝塔搭建" class="headerlink" title="通过Xshell链接服务器以及宝塔搭建"></a>通过Xshell链接服务器以及宝塔搭建</h4><h5 id="链接至Xshell"><a href="#链接至Xshell" class="headerlink" title="链接至Xshell"></a>链接至Xshell</h5><ul>
+<h2 id="下载Xshell"><a href="#下载Xshell" class="headerlink" title="下载Xshell"></a>下载<a href="https://www.newasp.net/soft/384562.html" target="_blank" rel="noopener">Xshell</a></h2><h2 id="通过Xshell链接服务器以及宝塔搭建"><a href="#通过Xshell链接服务器以及宝塔搭建" class="headerlink" title="通过Xshell链接服务器以及宝塔搭建"></a>通过Xshell链接服务器以及宝塔搭建</h2><h3 id="链接至Xshell"><a href="#链接至Xshell" class="headerlink" title="链接至Xshell"></a>链接至Xshell</h3><ul>
 <li>打开软件–点击新建<br><img src="https://i.loli.net/2020/03/29/YcSv9ebyPi65Nxj.jpg" alt="1.jpg">  </li>
-<li>名称可随意填写、主机为服务器的公网IP地址<br><img src="https://i.loli.net/2020/03/29/vJt3aYqEiMZVbPs.png" alt="2.png"></li>
-<li>点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码<br><img src="https://i.loli.net/2020/03/29/vsHhq5EGkDWFnMy.png" alt="3.png"><h5 id="搭建宝塔面板"><a href="#搭建宝塔面板" class="headerlink" title="搭建宝塔面板"></a>搭建宝塔面板</h5></li>
-<li>复制粘贴：<br>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh" target="_blank" rel="noopener">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh<br><img src="https://i.loli.net/2020/03/31/EpY4eiSuHdzy1cD.png" alt="4.png"></li>
-<li>提示“是否搭建”，输入“y”后按回车<br><img src="https://i.loli.net/2020/03/29/5w6k3igLNlaOdJH.png" alt="5.png"></li>
-<li>等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”<br><img src="https://i.loli.net/2020/03/31/YfvaiktwbE1N5Ls.png" alt="6.png"><h4 id="打开云服务器的安全组"><a href="#打开云服务器的安全组" class="headerlink" title="打开云服务器的安全组"></a>打开云服务器的安全组</h4></li>
+<li>名称可随意填写、主机为服务器的公网IP地址<br><img src="https://i.loli.net/2020/03/29/vJt3aYqEiMZVbPs.png" alt="2.png">  </li>
+<li>点击左侧“用户身份验证”，用户名为root，密码为你所设置的密码<br><img src="https://i.loli.net/2020/03/29/vsHhq5EGkDWFnMy.png" alt="3.png">  </li>
+</ul>
+<h3 id="搭建宝塔面板"><a href="#搭建宝塔面板" class="headerlink" title="搭建宝塔面板"></a>搭建宝塔面板</h3><ul>
+<li>复制粘贴：<br>yum install -y wget &amp;&amp; wget -O install.sh <a href="http://download.bt.cn/install/install_6.0.sh" target="_blank" rel="noopener">http://download.bt.cn/install/install_6.0.sh</a> &amp;&amp; sh install.sh<br><img src="https://i.loli.net/2020/03/31/EpY4eiSuHdzy1cD.png" alt="4.png">  </li>
+<li>提示“是否搭建”，输入“y”后按回车<br><img src="https://i.loli.net/2020/03/29/5w6k3igLNlaOdJH.png" alt="5.png">  </li>
+<li>等待直至出现下图即为搭建成功，记得记录好“账号密码”以及“进入面板的网址”<br><img src="https://i.loli.net/2020/03/31/YfvaiktwbE1N5Ls.png" alt="6.png">  </li>
+</ul>
+<h2 id="打开云服务器的安全组"><a href="#打开云服务器的安全组" class="headerlink" title="打开云服务器的安全组"></a>打开云服务器的安全组</h2><ul>
 <li>通过服务器官网控制面板进入安全组  </li>
-<li>为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0.0.0.0/0<br><img src="https://i.loli.net/2020/03/29/F6ildxKfmsRIyuM.png" alt="7.png"><h4 id="进入宝塔面板布置"><a href="#进入宝塔面板布置" class="headerlink" title="进入宝塔面板布置"></a>进入宝塔面板布置</h4></li>
-<li>在浏览器上输入地址进入宝塔面板<br><img src="https://i.loli.net/2020/03/31/J1mL34HlNWhtuFy.png" alt="8.png"></li>
-<li>安装LAMP面板，PHP版本选择5.6，等待直至安装完成<br><img src="https://i.loli.net/2020/03/30/hvtHrp932DG8EQN.jpg" alt="9-1024x478.jpg"><h4 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h4></li>
+<li>为安全组的入规则添加规则，打开TCP端口：8888、888、80、20-21、22，来源填写0.0.0.0/0<br><img src="https://i.loli.net/2020/03/29/F6ildxKfmsRIyuM.png" alt="7.png">  </li>
+</ul>
+<h2 id="进入宝塔面板布置"><a href="#进入宝塔面板布置" class="headerlink" title="进入宝塔面板布置"></a>进入宝塔面板布置</h2><ul>
+<li>在浏览器上输入地址进入宝塔面板<br><img src="https://i.loli.net/2020/03/31/J1mL34HlNWhtuFy.png" alt="8.png">  </li>
+<li>安装LAMP面板，PHP版本选择5.6，等待直至安装完成<br><img src="https://i.loli.net/2020/03/30/hvtHrp932DG8EQN.jpg" alt="9-1024x478.jpg">  </li>
+</ul>
+<h2 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h2><ul>
 <li>左侧栏选择“软件商店”，点击右边“一键部署”，找到WordPress并点击一键部署，并将自己的公网IP在“网站–添加站点”进行添加<br><img src="https://i.loli.net/2020/03/29/vV9AHeFzOicCJdE.png" alt="10.png"><br><img src="https://i.loli.net/2020/03/29/sjL3RzdwYGbKhUD.png" alt="11.png"></li>
 </ul>
-]]></content>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
       <tags>
-        <tag>Linux</tag>
         <tag>博客</tag>
       </tags>
   </entry>
@@ -80,18 +95,32 @@
 
 <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre>
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
   </entry>
 </search>
