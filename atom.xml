@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://myallure0322.github.io/"/>
-  <updated>2020-04-05T17:05:59.876Z</updated>
+  <updated>2020-04-08T17:46:04.603Z</updated>
   <id>http://myallure0322.github.io/</id>
   
   <author>
@@ -17,11 +17,90 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>安卓端软件</title>
+    <link href="http://myallure0322.github.io/an-zhuo-duan-ruan-jian/"/>
+    <id>http://myallure0322.github.io/an-zhuo-duan-ruan-jian/</id>
+    <published>2020-04-08T17:38:22.000Z</published>
+    <updated>2020-04-08T17:46:04.603Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="软件" scheme="http://myallure0322.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="安卓" scheme="http://myallure0322.github.io/tags/%E5%AE%89%E5%8D%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实用网站</title>
+    <link href="http://myallure0322.github.io/shi-yong-wang-zhan/"/>
+    <id>http://myallure0322.github.io/shi-yong-wang-zhan/</id>
+    <published>2020-04-08T17:38:22.000Z</published>
+    <updated>2020-04-08T17:45:47.351Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="网站" scheme="http://myallure0322.github.io/tags/%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建V2ray和SS</title>
+    <link href="http://myallure0322.github.io/da-jian-v2ray-he-ss/"/>
+    <id>http://myallure0322.github.io/da-jian-v2ray-he-ss/</id>
+    <published>2020-04-08T17:38:22.000Z</published>
+    <updated>2020-04-08T18:34:56.181Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="V2ray" scheme="http://myallure0322.github.io/tags/V2ray/"/>
+    
+      <category term="SS" scheme="http://myallure0322.github.io/tags/SS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>搭建博客</title>
-    <link href="http://myallure0322.github.io/tong-guo-linux-da-jian-bo-ke/"/>
-    <id>http://myallure0322.github.io/tong-guo-linux-da-jian-bo-ke/</id>
-    <published>2020-03-29T14:28:44.000Z</published>
-    <updated>2020-04-05T17:05:59.876Z</updated>
+    <link href="http://myallure0322.github.io/da-jian-bo-ke/"/>
+    <id>http://myallure0322.github.io/da-jian-bo-ke/</id>
+    <published>2020-04-08T17:38:22.000Z</published>
+    <updated>2020-04-08T18:33:52.775Z</updated>
     
     <summary type="html">
     
